@@ -97,9 +97,8 @@ Change defaults there if you want. GUI overrides whatever config says while runn
 
 made with GitHub Copilot
 
-```markdown
+
 [![Zeo33-free/DawClock2Vtuber GitStock K-Line Chart](https://gitstock.org/Zeo33-free/DawClock2Vtuber/stock.svg)](https://gitstock.org/Zeo33-free/DawClock2Vtuber)
-```
 
 ## License
 
